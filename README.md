@@ -1,4 +1,4 @@
 # Sample Hardhat Project
 
-Contract Address: 0x5FbDB2315678afecb367f032d93F642f64180aa3
+
 Attendance deployed : 0x153EA741d11c74d09188EC1f854E0735c0e807a3
